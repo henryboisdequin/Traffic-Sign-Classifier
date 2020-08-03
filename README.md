@@ -4,8 +4,6 @@ Built a Traffic Sign Classifier with a CNN Neural Network. Need: The world is mo
 
 Data:
 Data can be downloaded here: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
-Click the 
 ```
-Download (300 MB)
+Click the 'Download (300 MB)' button on the top of the Kaggle page.
 ```
-button on the top of the Kaggle page.
